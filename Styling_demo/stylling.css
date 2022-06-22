@@ -1,0 +1,26 @@
+h1 {
+    text-align:left;
+    font-weight:bold;
+    background-color:black;
+    color:white;
+    font-family:sans-serif;
+}
+span{
+    color:cyan;
+}
+h2{
+    text-align:center;
+    font-style:italic;
+    font-weight:light;
+    background-color:rebeccapurple;
+    color:white;
+    font-family:Arial, Helvetica, sans-serif;
+
+}
+h3{
+    text-align:right;
+    text-decoration:underline;
+    background-color:deepskyblue;
+    color:blue;
+    font-family:'Times New Roman', Times, serif;
+}
